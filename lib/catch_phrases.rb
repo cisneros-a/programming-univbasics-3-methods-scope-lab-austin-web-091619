@@ -10,4 +10,5 @@ end
 
 def kink
   take = "It's Dangerous To Go Alone! Take This."
+  puts take
 end
