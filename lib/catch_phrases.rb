@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 
-def kink
+def link
   take = "It's Dangerous To Go Alone! Take This."
   puts take
 end
